@@ -1,0 +1,14 @@
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.runtimeconfig.json
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.dll
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.dll
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\RepositoryLayer.genruntimeconfig.cache
+D:\Code\PRN231\SystemDesign\HoangBaoHuy_SE1849_GASM\RepositoryLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll
